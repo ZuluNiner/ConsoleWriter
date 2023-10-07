@@ -1,6 +1,8 @@
 # ConsoleWriter
 A basic console writer that allows for quick coloring and formatting of console print
 
+#### Version 1.1
+
 ## Write() Function
 ### Usage
 This function is used to print formatted text to the console
@@ -60,4 +62,4 @@ This a list of colors that you can use for the foreground and background paramet
 # Upcoming Changes
 - Make the Rewrite() command have additional optional parameters for specifying the cursor position
 - Make the Rewrite() clear the line before posting OR make it aware of the prior character count on the line and apply an appropriate ammount of spaces to compensate
-- Adjust both Rewrite() and Write() to adjust the incoming foreground and background colors to lowercase
+- ~~Adjust both Rewrite() and Write() to adjust the incoming foreground and background colors to lowercase~~
