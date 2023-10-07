@@ -6,9 +6,9 @@ A basic console writer that allows for quick coloring and formatting of console 
 This function is used to print formatted text to the console
 ### Parameters
 - **text** _(string)_: The text you want to print into the console
-- **autoReturn** _(bool)_ _Default: false_: Signals whether to make a new line or not
-- **foreground** _(string)_ _Default: gray_: The text/foreground color of the line (see "Console Colors" below)
-- **background** _(string)_ _Default: black_: The background color of the line
+- **autoReturn** _(bool)_ _Default: false_ - Signals whether to make a new line or not
+- **foreground** _(string)_ _Default: gray_ - The text/foreground color of the line (see "Console Colors" below)
+- **background** _(string)_ _Default: black_ - The background color of the line
 ```
 ConsoleWriter.Write("Some Text",true,"green","white");
 ```
