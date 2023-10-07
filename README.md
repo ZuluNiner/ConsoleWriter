@@ -34,3 +34,7 @@ This function is used to print a blank line to the console
 ```
 ConsoleWriter.Blank();
 ```
+
+# Upcoming Changes
+Make the Rewrite() command have additional optional parameters for specifying the cursor position
+Make the Rewrite() clear the line before posting OR make it aware of the prior character count on the line and apply an appropriate ammount of spaces to compensate
