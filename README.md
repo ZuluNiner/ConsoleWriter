@@ -58,6 +58,6 @@ This a list of colors that you can use for the foreground and background paramet
 - yellow
 
 # Upcoming Changes
-Make the Rewrite() command have additional optional parameters for specifying the cursor position
-Make the Rewrite() clear the line before posting OR make it aware of the prior character count on the line and apply an appropriate ammount of spaces to compensate
-Adjust both Rewrite() and Write() to adjust the incoming foreground and background colors to lowercase
+- Make the Rewrite() command have additional optional parameters for specifying the cursor position
+- Make the Rewrite() clear the line before posting OR make it aware of the prior character count on the line and apply an appropriate ammount of spaces to compensate
+- Adjust both Rewrite() and Write() to adjust the incoming foreground and background colors to lowercase
