@@ -1,7 +1,6 @@
 # ConsoleWriter
-A basic console writer that allows for quick coloring and formatting of console print
-
 #### Version 1.1
+A basic console writer that allows for quick coloring and formatting of console print
 
 ## Write() Function
 ### Usage
